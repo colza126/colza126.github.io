@@ -1,0 +1,33 @@
+body {
+    background-color: #1b4965;
+
+}
+
+.scritte {
+    color: #cae9ff;
+    position: relative;
+    text-align: center;
+}
+
+#titolo1 {
+
+    display: block;
+    margin: 0 auto;
+}
+.tabella_descrittiva{
+    
+    display: block;
+    margin-top: 0 auto;
+    margin: 0 auto;
+    background-color: #62b6cb;
+    width : 50%;
+    border:3px solid black;
+}
+td{
+    
+    width : 10%;
+}
+#home{
+    position: absolute; bottom: 0; right: 0;
+    width: 5%;
+}
