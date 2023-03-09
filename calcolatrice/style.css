@@ -1,0 +1,14 @@
+#calcolatrice{
+    border: 1px solid black;
+    position: relative;
+    width: 10%;
+    height: 10%;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+#btnRisultato{
+    width: 100%;
+}
+button{
+    width: 50px;
+}
