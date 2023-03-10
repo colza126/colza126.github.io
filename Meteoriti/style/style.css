@@ -1,0 +1,73 @@
+#titolo{
+    position: relative;
+    width: 20%;
+    height: 10%;
+    margin-left: 40%;
+}
+body{
+    background-color: #fefae0;
+}
+.scritte{
+    position: relative;
+    width: 40%;
+    height: 5%;
+    margin-top: 3%;
+    margin-left: 8%;
+}
+.testo{
+    margin-left: 70%;
+}
+#contenitoreDesc{
+    width: 60%;
+    margin-left: 20%;
+}
+.tabellaGen{
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+    border-spacing: 10px;
+}
+.containerTab{
+    width: 40%;
+    margin-left: 30%;
+}
+td{
+    border: 3px solid black;
+}
+
+iframe{
+    width: 100%;
+}
+
+.frameContainer{
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+.homeContainer{
+    position: relative;
+    width: 5%;
+    height: 5%;
+    margin-left: 95%;
+    margin-top: 19.5%;
+}
+.immagineHome{
+    
+    width: 100%;
+    height: 100%;
+}
+#fotoContainer{
+    width: 20%;
+    height: 20%;
+    margin-top: 1%;
+    margin-left: 40%;
+}
+#tabellaFoto{
+    width: 100%;
+    height: 100%;
+}
+.immaginiMeteoriti{
+    
+    width: 100%;
+    height: 50%;
+}
